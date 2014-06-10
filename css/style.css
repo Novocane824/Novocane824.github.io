@@ -1,0 +1,14 @@
+.jpbtn{
+	background-color: #49FF62;
+	color: black;
+	border: 0;
+	border-radius: 5px;
+	width: 120px;
+	height: 50px;
+	box-shadow: 10px 5px 5px black;
+	font-size: 2em;
+}
+.jpbtn:hover{
+	margin-top: 2px;
+	box-shadow: 0 0 0 0 white;
+}
